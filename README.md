@@ -101,7 +101,7 @@ Ensure you have Python installed along with the following libraries:
    **pip install -r requirements.txt**
 
 4. Open the Jupyter notebook:
-   **jupyter notebook Airbnb_NYC_EDA(Neha Gupta).ipynb.ipynb**
+   **jupyter notebook Airbnb_NYC_EDA(Neha Gupta).ipynb**
 
 5. Run the notebook to view the analysis and visualizations.
 
