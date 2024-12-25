@@ -92,7 +92,7 @@ Ensure you have Python installed along with the following libraries:
 **Steps to Run the Analysis**
 
 1. Clone the repository:
-   **git clone https://github.com/your-username/airbnb-nyc-2019-eda.git**
+   **git clone https://github.com/neha2gupta7/Airbnb_NYC_EDA/tree/main**
 
 2. Navigate to the project directory:
    **cd airbnb-nyc-2019-eda**
@@ -111,13 +111,7 @@ Ensure you have Python installed along with the following libraries:
 * data/: Directory containing the Airbnb NYC 2019 dataset (AB_NYC_2019.csv).
 * plots/: Directory for storing visualizations generated during analysis.
 
-**Contributing**
 
-Feel free to contribute to this project by submitting issues, suggestions, or pull requests.
-
-**License**
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
    
